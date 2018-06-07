@@ -15,6 +15,10 @@ body {
 
 /* header */
 
+/* nav-bar is to be lined with text-container in width
+navbar-nav being to the right and nav-link on the left within the bounadries */
+
+
 .navbar{
   margin-bottom: 30px;
 }
